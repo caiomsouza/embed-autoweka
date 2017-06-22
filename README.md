@@ -1,2 +1,2 @@
-# embed-autoweka
-embed-autoweka
+# embed-weka
+Embed Weka Playground
